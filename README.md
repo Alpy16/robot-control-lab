@@ -453,3 +453,5 @@ This project provided practical experience with:
 - distinguishing a control command from the physical plant that applies it
 
 ## License
+
+MIT
